@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "yekan_bakh";
+    src: url( ../fonts/yekanBakh/Yekan-Bakh-FaNum-05-Medium.woff);
+  }
+  
+  @font-face {
+    font-family: "yekan_bakh_bold";
+    src: url(../fonts/morabba/Morabba-Bold.woff);
+  }
+  
+  @font-face {
+    font-family: "Morabba";
+    src: url(../fonts/morabba/Morabba-Bold.woff);
+  }
+
+  @font-face {
+    font-family: "TitrBold";
+    src: url(../fonts/TitrBold.ttf);
+  }
+
+  @font-face {
+    font-family: "Vazir-Bold";
+    src: url(../fonts/Vazir-Bold.woff);
+  }

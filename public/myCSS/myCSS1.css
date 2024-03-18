@@ -1,0 +1,8 @@
+.my_select{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.tbale-striped>tbody>tr:nth-of-type(odd){
+    background-color: aqua;
+}
